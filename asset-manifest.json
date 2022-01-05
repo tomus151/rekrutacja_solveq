@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/rekrutacja_solveq/static/js/main.65cdde36.js",
+    "main.js": "/rekrutacja_solveq/static/js/main.f4ec0589.js",
     "index.html": "/rekrutacja_solveq/index.html",
-    "main.65cdde36.js.map": "/rekrutacja_solveq/static/js/main.65cdde36.js.map"
+    "main.f4ec0589.js.map": "/rekrutacja_solveq/static/js/main.f4ec0589.js.map"
   },
   "entrypoints": [
-    "static/js/main.65cdde36.js"
+    "static/js/main.f4ec0589.js"
   ]
 }
