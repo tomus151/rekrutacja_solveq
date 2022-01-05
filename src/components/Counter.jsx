@@ -1,5 +1,6 @@
 import { useState, useLayoutEffect } from 'react';
 import PropTypes from "prop-types";
+import '../style/Counter.scss';
 const Counter = ({ unixtimestamp }) => {
     const [timeToShow, setTimeToShow] = useState(0)
     let timeout
@@ -22,7 +23,7 @@ const Counter = ({ unixtimestamp }) => {
     const showText = timeToShow < 60 ? `${timeToShow} seconds ago` : `${Math.floor(timeToShow / 60)} minutes ago`
     return (
         <div className="counter-container">
-            <h2>Odliczanie</h2>
+            <h2>Counting down</h2>
             <br />
             {showText}
         </div>

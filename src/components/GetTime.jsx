@@ -1,3 +1,4 @@
+import '../style/GetTime.scss'
 const GetTime = ({ change, actualTime, handleSubmit }) => {
     const maxDate = () => {
         return new Date().toISOString().split('.')[0];

@@ -1,6 +1,7 @@
 import { useState } from 'react';
-import GetTime from './components/GetTime';
-import Counter from './components/Counter'
+import GetTime from './GetTime';
+import Counter from './Counter';
+import '../style/App.scss';
 const App = () => {
   const [timeToStartDiscount, setTimeToStartDiscount] = useState('')
   const [timestamp, setTimestamp] = useState(0)
