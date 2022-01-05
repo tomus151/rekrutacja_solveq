@@ -23,7 +23,7 @@ const App = () => {
         setTimestamp(ts)
         setShowCounterComponent(true)
       } else {
-        alert('Proszę o podanie daty wcześniejszej niż obecna')
+        alert('Please insert date earlier then now')
       }
     }
 
