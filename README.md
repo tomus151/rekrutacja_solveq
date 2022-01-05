@@ -1,3 +1,5 @@
+Live preview link: https://tomus151.github.io/rekrutacja_solveq/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
