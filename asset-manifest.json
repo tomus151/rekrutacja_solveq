@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/rekrutacja_solveq/static/js/main.f4ec0589.js",
+    "main.css": "/rekrutacja_solveq/static/css/main.cf9ec33f.css",
+    "main.js": "/rekrutacja_solveq/static/js/main.05959efe.js",
     "index.html": "/rekrutacja_solveq/index.html",
-    "main.f4ec0589.js.map": "/rekrutacja_solveq/static/js/main.f4ec0589.js.map"
+    "main.cf9ec33f.css.map": "/rekrutacja_solveq/static/css/main.cf9ec33f.css.map",
+    "main.05959efe.js.map": "/rekrutacja_solveq/static/js/main.05959efe.js.map"
   },
   "entrypoints": [
-    "static/js/main.f4ec0589.js"
+    "static/css/main.cf9ec33f.css",
+    "static/js/main.05959efe.js"
   ]
 }
